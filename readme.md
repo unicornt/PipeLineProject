@@ -1,6 +1,6 @@
 # Y86 Pipeline CPU - Simulator
 
-本Project是2019学年秋学期复旦大学ICS（金城）课程的课后Project，旨在实现一个基于Y86指令集（参见《深入了解计算系统》 Randal E. Bryant, David R. O'Hallaron 著，龚奕利，贺莲 译）的流水线处理器
+本Project旨在实现一个基于Y86指令集（参见《深入了解计算系统》 Randal E. Bryant, David R. O'Hallaron 著，龚奕利，贺莲 译）的流水线处理器
 
 本Project包含以下内容
 
@@ -71,7 +71,7 @@ System.Windows.Form用于实现在Windows操作系统下打开系统文件选择
 
 ## "开发者"
 
-该project由复旦大学18级计算机科学技术班级的赵文轩(18307130102)和沈溯(18307130102)合作完成
+该project由unicornt和bblss123合作完成
 
 ## Donate
 
